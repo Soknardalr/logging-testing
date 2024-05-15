@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2024-01-02T17:35:48</date>
+  <millis>1704198948063</millis>
+  <sequence>0</sequence>
+  <logger>org.example.MainApp</logger>
+  <level>INFO</level>
+  <class>org.example.MainApp</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>java top</message>
+</record>
+<record>
+  <date>2024-01-02T17:35:48</date>
+  <millis>1704198948185</millis>
+  <sequence>1</sequence>
+  <logger>org.example.MainApp</logger>
+  <level>SEVERE</level>
+  <class>org.example.MainApp</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>java top</message>
+</record>
+<record>
+  <date>2024-01-02T17:35:48</date>
+  <millis>1704198948186</millis>
+  <sequence>2</sequence>
+  <logger>org.example.MainApp</logger>
+  <level>FINE</level>
+  <class>org.example.MainApp</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>java top</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2024-01-02T17:37:14</date>
+  <millis>1704199034863</millis>
+  <sequence>0</sequence>
+  <logger>org.example.MainApp</logger>
+  <level>INFO</level>
+  <class>org.example.MainApp</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>java top</message>
+</record>
+<record>
+  <date>2024-01-02T17:37:14</date>
+  <millis>1704199034982</millis>
+  <sequence>1</sequence>
+  <logger>org.example.MainApp</logger>
+  <level>SEVERE</level>
+  <class>org.example.MainApp</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>java top</message>
+</record>
+<record>
+  <date>2024-01-02T17:37:14</date>
+  <millis>1704199034983</millis>
+  <sequence>2</sequence>
+  <logger>org.example.MainApp</logger>
+  <level>FINE</level>
+  <class>org.example.MainApp</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>java top</message>
+</record>
+</log>
